@@ -6,7 +6,7 @@ Analyze Data 📊. Optimize Models 🤖. Unlock Insights 💡. Repeat 🔄.
 
 I am an aspiring data professional from Melbourne, Australia.
 
-I recently graduated with Distinction from The University of Melbourne with a Master of IT (AI specialisation).
+I recently graduated with distinction from The University of Melbourne with a Master of IT (AI specialisation).
 
 I am passionate about helping businesses harness data to drive meaningful and positive change.
 
@@ -33,6 +33,4 @@ I am passionate about helping businesses harness data to drive meaningful and po
 - Other projects can be found in my [Repositories](https://github.com/AH-Miller?tab=repositories)
 
 ### Contact me 🤙
-[LinkedIn](linkedin.com/in/alec-miller-6423b8275/) 🔗
-
-[Email](mailto:milleralec2000@gmail.com) ✉️
+[LinkedIn](linkedin.com/in/alec-miller-6423b8275/) 🔗 [Email](mailto:milleralec2000@gmail.com) ✉️
