@@ -29,8 +29,8 @@ I am passionate about helping businesses harness data to drive meaningful and po
 
 ### GitHub Projects 🗂️
 - My [Data Analytics Portfolio](github.com/AH-Miller/Data-Analytics-Portfolio), which includes my solutions to the Google Data Analytics Professional Certificate Capstone Project, and the Quantium Data Analytics Job Simulation.
-- My [Masters Research Project](https://github.com/AH-Miller/Masters-Research)
-- Other projects can be found in my [Repositories](https://github.com/AH-Miller?tab=repositories)
+- My [Masters Research Project](https://github.com/AH-Miller/Masters-Research).
+- Other projects can be found in my [Repositories](https://github.com/AH-Miller?tab=repositories).
 
 ### Contact me 🤙
 [LinkedIn](linkedin.com/in/alec-miller-6423b8275/) 🔗 [Email](mailto:milleralec2000@gmail.com) ✉️
